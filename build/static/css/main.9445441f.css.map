@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9445441f.css","mappings":"AAIA,aACE,gBACF","sources":["App.css"],"sourcesContent":["/* * {\n  border: solid 1px red;\n} */\n\n.about-lorem {\n  text-indent: 50px;\n}"],"names":[],"sourceRoot":""}
